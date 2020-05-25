@@ -1,0 +1,51 @@
+[
+    {
+        "type": "resolution",
+        "year": 2019,
+        "number": 1,
+        "title": "Charta Studentského parlamentu Klasického gymnázia Modřany (původní znění)",
+        "file": "https://raw.githubusercontent.com/parlamentkgm/parlamentkgm.github.io/master/docs/2019/1-2019-cz-zneni-0.pdf"
+    },
+    {
+        "type": "resolution",
+        "year": 2019,
+        "number": 1,
+        "title": "Charta Studentského parlamentu Klasického gymnázia Modřany ve znění pozdějších předpisů ze dne 14. 5. 2020",
+        "file": "https://raw.githubusercontent.com/parlamentkgm/parlamentkgm.github.io/master/docs/2019/1-2019-cz-zneni-2020-5-14.pdf"
+    },
+    {
+        "type": "resolution",
+        "year": 2019,
+        "number": 1,
+        "title": "Charta Studentského parlamentu Klasického gymnázia Modřany (původní znění, EN)",
+        "file": "https://raw.githubusercontent.com/parlamentkgm/parlamentkgm.github.io/master/docs/2019/1-2019-en.pdf"
+    },
+    {
+        "type": "resolution",
+        "year": 2019,
+        "number": 2,
+        "title": "Jednací řád",
+        "file": "https://raw.githubusercontent.com/parlamentkgm/parlamentkgm.github.io/master/docs/2019/2-2019-cz.pdf"
+    },
+    {
+        "type": "resolution",
+        "year": 2019,
+        "number": 2,
+        "title": "Jednací řád (EN)",
+        "file": "https://raw.githubusercontent.com/parlamentkgm/parlamentkgm.github.io/master/docs/2019/2-2019-en.pdf"
+    },
+    {
+        "type": "resolution",
+        "year": 2019,
+        "number": 3,
+        "title": "Volební řád",
+        "file": "https://raw.githubusercontent.com/parlamentkgm/parlamentkgm.github.io/master/docs/2019/3-2019-cz.pdf"
+    },
+    {
+        "type": "resolution",
+        "year": 2019,
+        "number": 3,
+        "title": "Volební řád (EN)",
+        "file": "https://raw.githubusercontent.com/parlamentkgm/parlamentkgm.github.io/master/docs/2019/3-2019-en.pdf"
+    }
+]
