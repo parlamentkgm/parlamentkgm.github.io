@@ -4,48 +4,216 @@
         "year": 2019,
         "number": 1,
         "title": "Charta Studentského parlamentu Klasického gymnázia Modřany (původní znění)",
-        "file": "https://raw.githubusercontent.com/parlamentkgm/parlamentkgm.github.io/master/docs/2019/1-2019-cz-zneni-0.pdf"
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2019/1-2019-cz-zneni-0.pdf"
     },
     {
         "type": "resolution",
         "year": 2019,
         "number": 1,
         "title": "Charta Studentského parlamentu Klasického gymnázia Modřany ve znění pozdějších předpisů ze dne 14. 5. 2020",
-        "file": "https://raw.githubusercontent.com/parlamentkgm/parlamentkgm.github.io/master/docs/2019/1-2019-cz-zneni-2020-5-14.pdf"
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2019/1-2019-cz-zneni-2020-5-14.pdf"
     },
     {
         "type": "resolution",
         "year": 2019,
         "number": 1,
         "title": "Charta Studentského parlamentu Klasického gymnázia Modřany (původní znění, EN)",
-        "file": "https://raw.githubusercontent.com/parlamentkgm/parlamentkgm.github.io/master/docs/2019/1-2019-en.pdf"
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2019/1-2019-en.pdf"
     },
     {
         "type": "resolution",
         "year": 2019,
         "number": 2,
         "title": "Jednací řád",
-        "file": "https://raw.githubusercontent.com/parlamentkgm/parlamentkgm.github.io/master/docs/2019/2-2019-cz.pdf"
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2019/2-2019-cz.pdf"
     },
     {
         "type": "resolution",
         "year": 2019,
         "number": 2,
         "title": "Jednací řád (EN)",
-        "file": "https://raw.githubusercontent.com/parlamentkgm/parlamentkgm.github.io/master/docs/2019/2-2019-en.pdf"
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2019/2-2019-en.pdf"
     },
     {
         "type": "resolution",
         "year": 2019,
         "number": 3,
         "title": "Volební řád",
-        "file": "https://raw.githubusercontent.com/parlamentkgm/parlamentkgm.github.io/master/docs/2019/3-2019-cz.pdf"
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2019/3-2019-cz.pdf"
     },
     {
         "type": "resolution",
         "year": 2019,
         "number": 3,
         "title": "Volební řád (EN)",
-        "file": "https://raw.githubusercontent.com/parlamentkgm/parlamentkgm.github.io/master/docs/2019/3-2019-en.pdf"
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2019/3-2019-en.pdf"
+    },
+    {
+        "type": "resolution",
+        "year": 2020,
+        "number": 1,
+        "title": "Rezoluce ve věci zamykání vnitřních dveří mezi prostorem se skříňkami a chodbou u jídelny",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/1-2020-cz.pdf"
+    },
+    {
+        "type": "resolution",
+        "year": 2020,
+        "number": 1,
+        "title": "Rezoluce ve věci zamykání vnitřních dveří mezi prostorem se skříňkami a chodbou u jídelny (EN)",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/1-2020-en.pdf"
+    },
+    {
+        "type": "resolution",
+        "year": 2020,
+        "number": 2,
+        "title": "Rezoluce ve věci poskytnutí aplikací společnosti Microsoft studentům",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/2-2020-cz.pdf"
+    },
+    {
+        "type": "resolution",
+        "year": 2020,
+        "number": 2,
+        "title": "Rezoluce ve věci poskytnutí aplikací společnosti Microsoft studentům (EN)",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/2-2020-en.pdf"
+    },
+    {
+        "type": "resolution",
+        "year": 2020,
+        "number": 3,
+        "title": "Rezoluce ve věci zavedení nového Jednacího řádu, změny souvisejících předpisů, změny oficiálních jazyků a opravy některých legislativně-technických chyb",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/3-2020.pdf"
+    },
+    {
+        "type": "resolution",
+        "year": 2020,
+        "number": 4,
+        "title": "Rezoluce ve věci změny volebního systému a s tím souvisejících předpisů",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/4-2020.pdf"
+    },
+    {
+        "type": "resolution",
+        "year": 2020,
+        "number": 100,
+        "title": "Jednací řád",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/100-2020.pdf"
+    },
+    {
+        "type": "resolution",
+        "year": 2020,
+        "number": 101,
+        "title": "Volební řád",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/101-2020.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 1,
+        "title": "Oficiální výsledky voleb",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-1.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 2,
+        "title": "Zápis 1. schůze (CZ)",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-2-cz.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 2,
+        "title": "Zápis 1. schůze (EN)",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-2-en.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 3,
+        "title": "Zápis 2. schůze (CZ)",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-3-cz.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 3,
+        "title": "Zápis 2. schůze (EN)",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-3-en.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 4,
+        "title": "Zápis 3. schůze (CZ)",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-4-cz.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 4,
+        "title": "Zápis 3. schůze (EN)",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-4-en.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 5,
+        "title": "Společné prohlášení zástupců Parlamentu",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-5.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 6,
+        "title": "Dopis předsedy Blažka zástupcům Parlamentu",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-6.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 101,
+        "title": "Návrh rezoluce ve věci zavedení nového Jednacího řádu, změny souvisejících předpisů, změny oficiálních jazyků a opravy některých legislativně-technických chyb",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-101.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 102,
+        "title": "Jednací řád (návrh)",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-102.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 111,
+        "title": "Návrh rezoluce ve věci změny volebního systému a s tím souvisejících předpisů",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-111.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 112,
+        "title": "Volební řád (návrh)",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-112.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 120,
+        "title": "Zápis 4. schůze",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-120.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 121,
+        "title": "Rozhodnutí předsedy Studentského parlamentu",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-121.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 122,
+        "title": "Nařízení předsedy Studentského parlamentu",
+        "file": "https://github.com/parlamentkgm/parlamentkgm.github.io/blob/master/docs/2020/SP-2020-122.pdf"
     }
 ]
