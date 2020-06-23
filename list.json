@@ -105,6 +105,13 @@
         "file": "/docs/2020/101-2020.pdf"
     },
     {
+        "type": "resolution",
+        "year": 2020,
+        "number": 102,
+        "title": "Rezoluce ve věci zhodnocení volebního období 2019/2020",
+        "file": "/docs/2020/102-2020.pdf"
+    },
+    {
         "type": "other",
         "year": 2020,
         "number": 1,
@@ -222,5 +229,12 @@
         "number": 123,
         "title": "Návrh rezoluce ve věci zhodnocení volebního období 2019/2020",
         "file": "/docs/2020/SP-2020-123.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 124,
+        "title": "Zápis 5. schůze",
+        "file": "/docs/2020/SP-2020-124.pdf"
     }
 ]
