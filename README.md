@@ -1,1 +1,0 @@
-# parlamentkgm.github.io

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.33d99077b890b601f7f489a0ccdf281a.js"
+  "/precache-manifest.072684d72006ccafd544f349ee7facb5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "soubor-dokumentu"});
