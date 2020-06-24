@@ -14,16 +14,12 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.072684d72006ccafd544f349ee7facb5.js"
+  "/precache-manifest.fdca08721510ca703ef36bc49d5015bf.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "soubor-dokumentu"});
 
-self.addEventListener('message', (event) => {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
-  }
-});
+workbox.core.skipWaiting();
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
