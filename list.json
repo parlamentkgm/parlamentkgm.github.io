@@ -115,49 +115,49 @@
         "type": "other",
         "year": 2020,
         "number": 1,
-        "title": "Oficiální výsledky voleb",
+        "title": "Oficiální výsledky voleb (2019/2020)",
         "file": "/docs/2020/SP-2020-1.pdf"
     },
     {
         "type": "other",
         "year": 2020,
         "number": 2,
-        "title": "Zápis 1. schůze (CZ)",
+        "title": "Zápis 1. schůze (2019/2020, CZ)",
         "file": "/docs/2020/SP-2020-2-cz.pdf"
     },
     {
         "type": "other",
         "year": 2020,
         "number": 2,
-        "title": "Zápis 1. schůze (EN)",
+        "title": "Zápis 1. schůze (2019/2020, EN)",
         "file": "/docs/2020/SP-2020-2-en.pdf"
     },
     {
         "type": "other",
         "year": 2020,
         "number": 3,
-        "title": "Zápis 2. schůze (CZ)",
+        "title": "Zápis 2. schůze (2019/2020, CZ)",
         "file": "/docs/2020/SP-2020-3-cz.pdf"
     },
     {
         "type": "other",
         "year": 2020,
         "number": 3,
-        "title": "Zápis 2. schůze (EN)",
+        "title": "Zápis 2. schůze (2019/2020, EN)",
         "file": "/docs/2020/SP-2020-3-en.pdf"
     },
     {
         "type": "other",
         "year": 2020,
         "number": 4,
-        "title": "Zápis 3. schůze (CZ)",
+        "title": "Zápis 3. schůze (2019/2020, CZ)",
         "file": "/docs/2020/SP-2020-4-cz.pdf"
     },
     {
         "type": "other",
         "year": 2020,
         "number": 4,
-        "title": "Zápis 3. schůze (EN)",
+        "title": "Zápis 3. schůze (2019/2020, EN)",
         "file": "/docs/2020/SP-2020-4-en.pdf"
     },
     {
@@ -206,7 +206,7 @@
         "type": "other",
         "year": 2020,
         "number": 120,
-        "title": "Zápis 4. schůze",
+        "title": "Zápis 4. schůze (2019/2020)",
         "file": "/docs/2020/SP-2020-120.pdf"
     },
     {
@@ -234,7 +234,21 @@
         "type": "other",
         "year": 2020,
         "number": 124,
-        "title": "Zápis 5. schůze",
+        "title": "Zápis 5. schůze (2019/2020)",
         "file": "/docs/2020/SP-2020-124.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 125,
+        "title": "Výsledek voleb (volební období 2020/2021)",
+        "file": "/docs/2020/SP-2020-125.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 126,
+        "title": "Zápis ustavující schůze (2020/2021)",
+        "file": "/docs/2020/SP-2020-126.pdf"
     }
 ]
