@@ -112,6 +112,13 @@
         "file": "/docs/2020/102-2020.pdf"
     },
     {
+        "type": "resolution",
+        "year": 2020,
+        "number": 103,
+        "title": "Rezoluce ve věci podoby a užívání symbolů Studentského parlamentu",
+        "file": "/docs/2020/103-2020.pdf"
+    },
+    {
         "type": "other",
         "year": 2020,
         "number": 1,
@@ -278,5 +285,19 @@
         "number": 130,
         "title": "Rozhodnutí předsedy Studentského parlamentu o svolání 1. schůze ve volebním obodbí 2020/2021",
         "file": "/docs/2020/SP-2020-130.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 131,
+        "title": "Zápis 1. schůze (2020/2021)",
+        "file": "/docs/2020/SP-2020-131.pdf"
+    },
+    {
+        "type": "other",
+        "year": 2020,
+        "number": 132,
+        "title": "Společné prohlášení zástupců k teroristickým útokům v Evropě",
+        "file": "/docs/2020/SP-2020-132.pdf"
     }
 ]
